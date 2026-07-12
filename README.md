@@ -6,6 +6,10 @@ API для книжного каталога.
 
 > Проект учебный и сильно условный. Суть проекта — выучить новые технологии.
 
+## Живое API
+
+https://api-for-book-catalog-production.up.railway.app
+
 ## Технологии
 
 - TypeScript
