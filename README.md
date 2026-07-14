@@ -8,7 +8,7 @@ API для книжного каталога.
 
 ## Живое API
 
-https://api-for-book-catalog-production.up.railway.app
+enchanting-youthfulness-production-e0b0.up.railway.app/api
 
 ## Технологии
 
