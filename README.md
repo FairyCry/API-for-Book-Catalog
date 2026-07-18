@@ -1,4 +1,4 @@
-# Book Catalog V3
+# Book Catalog API 
 
 API для книжного каталога.
 
