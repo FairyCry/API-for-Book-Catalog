@@ -6,10 +6,6 @@ API для книжного каталога.
 
 > Проект учебный и сильно условный. Суть проекта — выучить новые технологии.
 
-## Живое API
-
-enchanting-youthfulness-production-e0b0.up.railway.app/api
-
 ## Технологии
 
 - TypeScript
